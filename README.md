@@ -16,3 +16,5 @@ By using zip file you can create a Hassle-Free Python Lambda Deployment function
 
 You can refer this Link [Hassle-Free Python Lambda Deployment](https://joarleymoraes.com/hassle-free-python-lambda-deployment/). for detailed explanation.
 
+For configuring the AWS CLI refer this link [aws-cli](https://github.com/aws/aws-cli)
+
