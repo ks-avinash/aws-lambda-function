@@ -1,6 +1,6 @@
 # aws-lambda-function
 
-This code will do the following tasks
+This code will do the following Data Ingestion steps
 
 
 - Download the excel file from the link
